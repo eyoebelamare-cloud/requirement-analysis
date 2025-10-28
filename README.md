@@ -9,3 +9,6 @@ Requirement Elicitation is the step of clarification of thoughts through brainst
 Requirement Documentation is documenting tolhe requirements in a detailed and structured format.
 Requirement Analysis Modeling is the process of representing the user needs in visual way to make it easy for the development team to understand what is really needed to be solved.
 Requirement Validation is the final process of checking the validity of the requirement analysis.
+# Types of Requirements.
+Functional requirements are requirements that describe the function and services the system is expected to provide. example user interface 
+Non Functional requirements are requirements which focus on the quality characteristics of the system, example: maintainability,security etc.
