@@ -14,3 +14,14 @@ Requirement Validation is the final process of checking the validity of the requ
 # Types of Requirements.
 Functional requirements are requirements that describe the function and services the system is expected to provide. example user interface 
 Non Functional requirements are requirements which focus on the quality characteristics of the system, example: maintainability,security etc.
+# Acceptance Criteria.
+non-negotiable conditions that a feature must meet to be considered complete and correct.
+​Why ACs are Important
+​Define "Done": They provide the objective proof that a requirement has been fully satisfied, ending the development cycle for that item.
+​Prevent Misunderstandings: ACs translate vague ideas into clear, verifiable rules, ensuring developers, testers, and the customer all agree on the intended result.
+​Guide Testing: They serve as the direct foundation for all test cases, confirming the software behaves exactly as the business expects.
+​Checkout Feature AC Example
+​For a simple Checkout Feature, the ACs ensure the process is functional and safe:
+​The system must process a valid credit card payment and immediately display a "Booking Confirmed" message.
+​If payment fails (e.g., incorrect CVV), the system must display an explicit error message and prevent the booking.
+​Upon successful payment, an automated email confirmation must be sent to the user with the transaction details.
