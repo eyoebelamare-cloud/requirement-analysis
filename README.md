@@ -25,3 +25,4 @@ non-negotiable conditions that a feature must meet to be considered complete and
 ​The system must process a valid credit card payment and immediately display a "Booking Confirmed" message.
 ​If payment fails (e.g., incorrect CVV), the system must display an explicit error message and prevent the booking.
 ​Upon successful payment, an automated email confirmation must be sent to the user with the transaction details.
+20251025_173334.jpg
